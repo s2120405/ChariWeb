@@ -1,5 +1,5 @@
 <?php
-session_start(); // Start a session for login state
+
 
 class Admin {
     private $DB_SERVER = 'localhost';
